@@ -1,0 +1,41 @@
+# .NET 9.0 Console App with Azure CosmosDB .gitignore
+
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+
+# Logs
+*.log
+
+# Azure CosmosDB Emulator files
+.cosmosdb/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# DotNet local tools
+.localtoolmanifest.json
