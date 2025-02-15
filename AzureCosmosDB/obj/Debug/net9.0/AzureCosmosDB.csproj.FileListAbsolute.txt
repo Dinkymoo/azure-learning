@@ -1,0 +1,1 @@
+/Users/daniellevangraan/Documents/sandbox/DotNet/AzureCosmosDB/obj/Debug/net9.0/AzureCosmosDB.csproj.AssemblyReference.cache
